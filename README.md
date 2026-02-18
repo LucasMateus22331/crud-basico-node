@@ -24,3 +24,7 @@ http://localhost:3000
 - GET /users/:id → Buscar por ID
 - PUT /users/:id → Atualizar usuário
 - DELETE /users/:id → Deletar usuário
+
+
+
+obs : um otimo projeto para mostrar oque aprendeu e se divertir codando
