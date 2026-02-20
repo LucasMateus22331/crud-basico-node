@@ -1,30 +1,45 @@
-# 🚀 CRUD Básico com Node.js
+🚀 CRUD Básico com Node.js
 
-Projeto simples de CRUD usando Node.js e Express.
+Projeto de API REST desenvolvido para praticar operações de CRUD (Create, Read, Update e Delete) utilizando Node.js e Express.
 
-## 📦 Instalação
+Este projeto tem como objetivo reforçar conceitos fundamentais de backend, organização de rotas e manipulação de dados.
 
-```bash
+📦 Instalação
+
+Clone o repositório e instale as dependências:
+
 npm install
-```
+▶️ Executando o Projeto
 
-## ▶️ Rodar o projeto
+Para iniciar o servidor:
 
-```bash
 npm start
-```
 
-Servidor rodando em:
+O servidor estará rodando em:
+
 http://localhost:3000
+📍 Rotas da API
 
-## 📍 Rotas
+POST /users → Criar usuário
 
-- POST /users → Criar usuário
-- GET /users → Listar usuários
-- GET /users/:id → Buscar por ID
-- PUT /users/:id → Atualizar usuário
-- DELETE /users/:id → Deletar usuário
+GET /users → Listar todos os usuários
 
+GET /users/:id → Buscar usuário por ID
 
+PUT /users/:id → Atualizar usuário
 
-obs : um otimo projeto para mostrar oque aprendeu e se divertir codando
+DELETE /users/:id → Remover usuário
+
+🎯 Objetivo do Projeto
+
+Este é um excelente projeto para:
+
+Praticar conceitos de API REST
+
+Entender a estrutura básica de um backend
+
+Aprender organização de rotas
+
+Demonstrar seus conhecimentos em portfólio
+
+Além de ser um ótimo exercício para evoluir na programação e se divertir codando 🚀
