@@ -45,3 +45,5 @@ Demonstrar seus conhecimentos em portfólio
 Além de ser um ótimo exercício para evoluir na programação e se divertir codando 🚀
 
 Uma boa pratica para evoluir
+
+proxima etapa, extrair os dados 
